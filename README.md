@@ -2,4 +2,4 @@
 Pelles travis exercise
 
 
-![alt text](https://travis-ci.org/pellegoeg/pelles-travis-exercise.svg?branch=master "Logo Title Text 1")
+[![Build Status](https://travis-ci.org/pellegoeg/pelles-travis-exercise.svg?branch=master)](https://travis-ci.org/pellegoeg/pelles-travis-exercise)
